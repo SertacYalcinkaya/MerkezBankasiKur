@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShowExchangeRates", "..\Sho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KurGoster", "KurGoster\KurGoster.csproj", "{51EDC741-B5D5-4063-8B5D-F61E7C597920}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerkezBankasiApi", "MerkezBankasiApi\MerkezBankasiApi.csproj", "{C62A99B7-E862-4830-8658-568874742043}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{51EDC741-B5D5-4063-8B5D-F61E7C597920}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51EDC741-B5D5-4063-8B5D-F61E7C597920}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51EDC741-B5D5-4063-8B5D-F61E7C597920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C62A99B7-E862-4830-8658-568874742043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C62A99B7-E862-4830-8658-568874742043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C62A99B7-E862-4830-8658-568874742043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C62A99B7-E862-4830-8658-568874742043}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

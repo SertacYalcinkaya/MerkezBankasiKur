@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\MerkezBankasi\MerkezBankasi.csproj" />
+    <ProjectReference Include="..\MerkezBankasiApi\MerkezBankasiApi.csproj" />
   </ItemGroup>
 
 </Project>

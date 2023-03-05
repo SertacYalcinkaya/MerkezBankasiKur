@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using MerkezBankasi;
-using MerkezBankasi.Controllers;
+using MerkezBankasiApi;
+using MerkezBankasiApi.Controllers;
 using Microsoft.Office.Interop.Excel;
 
 namespace KurGoster.Controllers
@@ -19,7 +19,7 @@ namespace KurGoster.Controllers
 
         public ResponseData KurList()
         {
-            GunlukKurController gunlukKurController = new GunlukKurController();
+            KurController gunlukKurController = new KurController();
             ResponseData result = gunlukKurController.Run(new RequestData
             {
                 BaslangicTarih = new DateTime(2023, 2, 3),
