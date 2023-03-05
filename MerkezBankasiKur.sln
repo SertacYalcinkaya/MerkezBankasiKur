@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerkezBankasi", "..\MerkezBankasi\MerkezBankasi.csproj", "{00315562-03C3-4454-97F3-052726B10C63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowExchangeRates", "..\ShowExchangeRates\ShowExchangeRates.csproj", "{CB01595C-6D27-4E5B-9E12-AE071DF70784}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00315562-03C3-4454-97F3-052726B10C63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00315562-03C3-4454-97F3-052726B10C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00315562-03C3-4454-97F3-052726B10C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00315562-03C3-4454-97F3-052726B10C63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB01595C-6D27-4E5B-9E12-AE071DF70784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB01595C-6D27-4E5B-9E12-AE071DF70784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB01595C-6D27-4E5B-9E12-AE071DF70784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB01595C-6D27-4E5B-9E12-AE071DF70784}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2200E1AF-8BB5-4202-8B92-0B67DE897010}
+	EndGlobalSection
+EndGlobal
